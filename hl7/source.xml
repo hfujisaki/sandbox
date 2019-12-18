@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container name="Container">
+	<dataset name="Dataset">
+		<section name="A">
+			<section name="B">
+				<section name="C">
+					<value name="D1">Yoohoo</value>
+					<value name="D2">128</value>
+					<section name="D3">
+						<value name="E1">E1_ENUM_POWER</value>
+						<value name="E2">3.1415926535897932384626433832795028841971693993751
+						</value>
+					</section>
+					<section name="D3">
+						<value name="E1"></value>
+					</section>
+					<section name="D3" />
+					<section name="D4">
+						<value name="E3">E3_ENUM_CT</value>
+					</section>
+				</section>
+				<section name="C" />
+			</section>
+			<section name="B" />
+		</section>
+		<section name="Z">
+			<section name="Y">
+				<value name="X1">X1_ENUM_WWW</value>
+			</section>
+		</section>
+	</dataset>
+	<signature>
+	</signature>
+</container>

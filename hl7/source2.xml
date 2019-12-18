@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="A">
+	<section name="B">
+		<section name="C">
+			<value name="D1" format="F5.2" unit="mV">123.456</value>
+			<value name="D2" format="fD2" unit="uD2"></value>
+			<section name="D3">
+				<value name="E1" format="fE1">tE11</value>
+				<value name="E2" format="fE2" unit="uE2">tE21</value>
+			</section>
+			<section name="D3">
+				<value name="E1" format="A_B_C_D3_E1_ENUM">A_B_C_D3_E1_ENUM_POWER</value>
+			</section>
+			<section name="D3"/>
+			<section name="D4">
+				<value name="E3" format="fE3">tE31</value>
+			</section>
+		</section>
+		<section name="C"/>
+	</section>
+	<section name="B"/>
+</section>
